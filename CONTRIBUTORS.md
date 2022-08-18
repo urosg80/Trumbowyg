@@ -164,3 +164,4 @@ Special thanks to [Adrien Gervaix](https://dribbble.com/adriengervaix) for the T
 - Игорь
 - Михаил Гущин
 - Олег Ильин
+- Uroš Gaber
